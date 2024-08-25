@@ -3,3 +3,7 @@
 User-agent: *
 
 Some new robots
+
+# THANKS
+
+All my students!
